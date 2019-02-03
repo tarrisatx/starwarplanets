@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'aaaiight';
+  font-style: normal;
+  font-weight: normal;
+  src: local('aaaiight'), url('aaaiight.woff') format('woff');
+  }
+  body {
+      background-image: url(astronomy-color-cosmos-41951.jpg);
+      background-repeat: no-repeat;    
+  }
+  h1 {
+      font-family: 'aaaiight';
+      text-shadow: 2px 2px #1b1b19;
+      color: white;
+  }
