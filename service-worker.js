@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/starwarplanets/precache-manifest.f72ea041a88d48b9cd0a92eb8e0f899d.js"
+  "/starwarplanets/precache-manifest.035e4b06363b10329287a622d916b297.js"
 );
 
 workbox.clientsClaim();
