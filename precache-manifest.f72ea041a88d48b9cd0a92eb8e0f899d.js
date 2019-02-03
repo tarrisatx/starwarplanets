@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/starwarplanets/static/js/runtime~main.ddea5480.js"
   },
   {
-    "revision": "dde1d098fc37ce0593ad",
-    "url": "/starwarplanets/static/js/main.dde1d098.chunk.js"
+    "revision": "4ab094a3a7ae7161d225",
+    "url": "/starwarplanets/static/js/main.4ab094a3.chunk.js"
   },
   {
     "revision": "fa92c112869d3657d47b",
     "url": "/starwarplanets/static/js/1.fa92c112.chunk.js"
   },
   {
-    "revision": "dde1d098fc37ce0593ad",
+    "revision": "4ab094a3a7ae7161d225",
     "url": "/starwarplanets/static/css/main.2ba6454e.chunk.css"
   },
   {
-    "revision": "aaafee3772b1dcafaae07aa2a1401c17",
+    "revision": "43950701edcdb5584c6f64156c691bf9",
     "url": "/starwarplanets/index.html"
   }
 ];

@@ -1,7 +1,7 @@
 {
   "main.css": "/starwarplanets/static/css/main.2ba6454e.chunk.css",
-  "main.js": "/starwarplanets/static/js/main.dde1d098.chunk.js",
-  "main.js.map": "/starwarplanets/static/js/main.dde1d098.chunk.js.map",
+  "main.js": "/starwarplanets/static/js/main.4ab094a3.chunk.js",
+  "main.js.map": "/starwarplanets/static/js/main.4ab094a3.chunk.js.map",
   "static/js/1.fa92c112.chunk.js": "/starwarplanets/static/js/1.fa92c112.chunk.js",
   "static/js/1.fa92c112.chunk.js.map": "/starwarplanets/static/js/1.fa92c112.chunk.js.map",
   "runtime~main.js": "/starwarplanets/static/js/runtime~main.ddea5480.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/starwarplanets/static/media/logo.ee7cd8ed.svg",
   "static/css/main.2ba6454e.chunk.css.map": "/starwarplanets/static/css/main.2ba6454e.chunk.css.map",
   "index.html": "/starwarplanets/index.html",
-  "precache-manifest.1420c828110b7b93977f4afd850c283f.js": "/starwarplanets/precache-manifest.1420c828110b7b93977f4afd850c283f.js",
+  "precache-manifest.f72ea041a88d48b9cd0a92eb8e0f899d.js": "/starwarplanets/precache-manifest.f72ea041a88d48b9cd0a92eb8e0f899d.js",
   "service-worker.js": "/starwarplanets/service-worker.js"
 }
