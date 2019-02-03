@@ -1,16 +1,16 @@
 {
   "main.css": "/starwarplanets/static/css/main.4d0dcd4b.chunk.css",
-  "main.js": "/starwarplanets/static/js/main.fe3a438a.chunk.js",
-  "main.js.map": "/starwarplanets/static/js/main.fe3a438a.chunk.js.map",
+  "main.js": "/starwarplanets/static/js/main.8c0d968d.chunk.js",
+  "main.js.map": "/starwarplanets/static/js/main.8c0d968d.chunk.js.map",
   "static/css/1.871ffcec.chunk.css": "/starwarplanets/static/css/1.871ffcec.chunk.css",
   "static/js/1.8b54e12c.chunk.js": "/starwarplanets/static/js/1.8b54e12c.chunk.js",
   "static/js/1.8b54e12c.chunk.js.map": "/starwarplanets/static/js/1.8b54e12c.chunk.js.map",
   "runtime~main.js": "/starwarplanets/static/js/runtime~main.ddea5480.js",
   "runtime~main.js.map": "/starwarplanets/static/js/runtime~main.ddea5480.js.map",
-  "static/css/1.871ffcec.chunk.css.map": "/starwarplanets/static/css/1.871ffcec.chunk.css.map",
-  "static/media/App.css": "/starwarplanets/static/media/astronomy-color-cosmos-41951.3e54e6fe.jpg",
   "static/css/main.4d0dcd4b.chunk.css.map": "/starwarplanets/static/css/main.4d0dcd4b.chunk.css.map",
+  "static/media/App.css": "/starwarplanets/static/media/astronomy-color-cosmos-41951.3e54e6fe.jpg",
+  "static/css/1.871ffcec.chunk.css.map": "/starwarplanets/static/css/1.871ffcec.chunk.css.map",
   "index.html": "/starwarplanets/index.html",
-  "precache-manifest.035e4b06363b10329287a622d916b297.js": "/starwarplanets/precache-manifest.035e4b06363b10329287a622d916b297.js",
+  "precache-manifest.b0cce538d47825c0d3464969459bee14.js": "/starwarplanets/precache-manifest.b0cce538d47825c0d3464969459bee14.js",
   "service-worker.js": "/starwarplanets/service-worker.js"
 }
