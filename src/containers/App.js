@@ -37,22 +37,7 @@ class App extends Component {
                      })
                 console.log(allplanets)
             })
-            .catch(err => console.log('ughhhh fix it!', err));
-        
-
-            
-
-            
-       
-
-
-        /* fetch('https://swapi.co/api/planets/')
-        .then(response=> {
-            return response.json();
-        })
-        .then(users => {
-            this.setState({ data: users.results})
-        }); */
+            .catch(err => console.log('Somethings up!', err));
     }
 
     onSearchChange = (event) => {
@@ -72,7 +57,7 @@ class App extends Component {
         } else {
         return (
                 <div className="tc">
-                <h1 className="f1">RoboFamily</h1>
+                <h1 className="f1">Starwars Planets</h1>
                 <SearchBox searchChange={this.onSearchChange} />
                 <Scroll>
                 <CardList data={filteredRobots}/>
