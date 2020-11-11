@@ -19,9 +19,9 @@ class App extends Component {
     componentDidMount() {
         
         const urls = [
-            'https://swapi.co/api/planets/?page=1',
-            'https://swapi.co/api/planets/?page=2',
-            'https://swapi.co/api/planets/?page=3'
+            'https://swapi.dev/api/planets/?page=1',
+            'https://swapi.dev/api/planets/?page=2',
+            'https://swapi.dev/api/planets/?page=3'
           ]
           
           Promise.all(urls.map(url =>
